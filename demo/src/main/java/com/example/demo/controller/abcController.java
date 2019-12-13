@@ -3,7 +3,7 @@ package com.example.demo.controller;
 public class abcController {
     @Override
     public boolean equals(Object obj) {
-        System.out.println("小马哥牛皮");
+        System.out.println("管工好好学习,天天向上");
         return super.equals(obj);
     }
 }
